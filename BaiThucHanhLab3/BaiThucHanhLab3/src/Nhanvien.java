@@ -14,8 +14,10 @@ public class Nhanvien {
         System.out.print("nhap he so luong:");
         hesoluong = scanner.nextInt();
         int luong = hesoluong * luongcoban;
-        System.out.print("luong la:" +luong);
+        System.out.print("luong la:" +luong);   
     }
 }
     
 
+//xay dung class hinh tru tron co 
+//xay dung class hinh chu nhat 
