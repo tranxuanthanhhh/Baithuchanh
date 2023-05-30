@@ -15,5 +15,4 @@ public class Multicatchblok {
         }
         System.out.println("reset of the code...");
     }
-
 }
